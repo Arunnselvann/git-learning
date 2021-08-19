@@ -1,4 +1,0 @@
-<html>
-<h1>Hi welcome </h1>
-<h1>hi</h1>
-</html>
